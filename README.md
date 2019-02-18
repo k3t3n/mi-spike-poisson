@@ -9,7 +9,7 @@ paper:
 **Quantifying Neuronal Information Flow in Response to Frequency and Intensity Changes in the Auditory Cortex**, by
 Ketan Mehta, Joerg Kliewer, and Antje Ihlefeld.
 
-- The folder 'mi' contains code for calculating the mutual information of a general Poisson Mixture of two random variables with specified weights.
+- The folder 'MI' contains code for calculating the mutual information of a general Poisson Mixture of two random variables with specified weights.
 
 ## Citation
 
