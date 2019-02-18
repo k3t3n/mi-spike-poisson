@@ -3,7 +3,7 @@
 
 # Mutual Information for a Poisson Mixture Model of Spiking Neurons
 
-This repo contains example code for modeling multi-unit neuronal responses as a Poisson mixture and calculating the mutual information as described in the following
+This repository contains example code for modeling multi-unit neuronal responses as a Poisson mixture and calculating the mutual information as described in the following
 paper:
 
 **[Quantifying Neuronal Information Flow in Response to Frequency and Intensity Changes in the Auditory Cortex](https://centers.njit.edu/nesh/sites/nesh/files/MehtaKliewerIhlefeld_2018.pdf)**, by
