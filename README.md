@@ -1,4 +1,4 @@
-**Status:** In progress (More files to be added shortly)
+**Status:** In progress (More files to be added soon)
 
 
 # Mutual Information for a Poisson Mixture Model of Spiking Neurons
