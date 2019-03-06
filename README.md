@@ -22,9 +22,9 @@ folder contains scripts to process neuronal spike trains, along with two example
 - `spike_main.m`
     - performs spike detection using voltage thresholding.
     - calculates inter-spike arrival time.
-    - estimates the mean firing rate of the spike sequence by modeling it as a Poisson random variable. The rate parameter is calculated for each electrode, by concatenating data from multiple trials.
+    - estimates the mean firing rate of the spike train by modeling it as a Poisson process. The rate parameter is calculated for each electrode, by concatenating data from multiple trials.
 
-- `spike_view` - opens and reads trial information from a .hd5 session file, and bandpass filter the spike sequence.  
+- `spike_view.m` - opens and reads trial information from a .hd5 session file, and bandpass filter the spike sequence.  
 - `trial1K_1.mat` - an example dataset from an experimental session. This session file consists of ten trials (repetitions) of the same stimulus; an audio tone of 1 kHz being presented at a sound pressure level of 53 dB.
 - `trialSilence_1.mat` - an example dataset for a session file with ten trials of no audio tone being presented.
 
