@@ -19,7 +19,6 @@ folder contains scripts to estimate the following information theoretic quantiti
 
 **`Spikes`**
 folder contains scripts to process neuronal spike trains, along with two example datasets.
-'Spikes' contains code for spike detection, calculating inter-spike arrival time, and estimating the rate parameter from the spike sequence.
 - `spike_main.m`
     - performs spike detection using voltage thresholding.
     - calculates inter-spike arrival time.
