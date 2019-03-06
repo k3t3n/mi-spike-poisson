@@ -12,13 +12,13 @@ Ketan Mehta, Joerg Kliewer, and Antje Ihlefeld.
 ## Contents
 
 **`MI`**
-This folder contains scripts to estimate the following information theoretic quantities for Poisson random variables:
+folder contains scripts to estimate the following information theoretic quantities for Poisson random variables:
 - `mutual_info.m` - calculates the mutual information of a general Poisson mixture of two random variables with specified weights.
 - `poisson_mixture.m` - calculates the entropy of a bi-variate Poisson mixture model.
 - `entropy.m` - calculates the entropy of a single Poisson random variable given its rate parameter.
 
 **`Spikes`**
-This folder contains scripts to process neuronal spike trains, along with two example datasets.
+folder contains scripts to process neuronal spike trains, along with two example datasets.
 'Spikes' contains code for spike detection, calculating inter-spike arrival time, and estimating the rate parameter from the spike sequence.
 - `spike_main.m`
     - performs spike detection using voltage thresholding.
